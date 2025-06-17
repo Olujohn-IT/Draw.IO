@@ -33,3 +33,7 @@
   ![alty text](https://fotc.com/app/uploads/2023/01/draw.io-pricing-768x329.png)
 
 (https://fotc.com/blog/draw-io-online-guide/)
+
+
+# DrawIO Cost according to https://www.techradar.com/reviews/drawio
+![alt text](https://cdn.mos.cms.futurecdn.net/8CYdJxW2Yoz79ZoX9RzjdU-970-80.png.webp)
