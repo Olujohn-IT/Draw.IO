@@ -23,4 +23,13 @@
   - Sketching out the design of a website or user interface. ETC
 
   (https://fotc.com/blog/draw-io-online-guide/)
+  
 
+  # How much does Draw.io cost
+  This is a free, open-source project with source code that anyone can view and modify.
+
+  Draw.io pricing plans include a cloud plan, data centre plan and a server plan, depending on the number of users:
+
+  ![alty text](https://fotc.com/app/uploads/2023/01/draw.io-pricing-768x329.png)
+
+(https://fotc.com/blog/draw-io-online-guide/)
