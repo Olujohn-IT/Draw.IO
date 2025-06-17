@@ -13,3 +13,14 @@
 
   ![alt text](https://fotc.com/app/uploads/2021/08/Capture3-1-768x355.png)
 
+
+  # What can you use Draw.io for
+
+  - Creating a flowchart to illustrate a process or the workflow of a project.
+  - Designing an organisational chart to show the structure or hierarchy of the company.
+  - Mapping out ideas or concepts via a mind map.
+  - Visualising a network using a network diagram.
+  - Sketching out the design of a website or user interface. ETC
+
+  (https://fotc.com/blog/draw-io-online-guide/)
+
